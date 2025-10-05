@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: OCTAVIA CORNWALL
+# DATE: OCTOBER 4, 2025
+# BRIEF DESCRIPTION: GRADE CONVERTER
 
 
 
@@ -84,7 +84,7 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
+The less than and equal to signs.
 
 
 
