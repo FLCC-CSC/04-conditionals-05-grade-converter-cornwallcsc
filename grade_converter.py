@@ -84,7 +84,7 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
+The less than and equal to signs.
 
 
 
